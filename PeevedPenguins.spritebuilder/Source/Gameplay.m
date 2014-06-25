@@ -169,14 +169,14 @@
         
         int xMin = _currentPenguin.boundingBox.origin.x;
         
-        if (xMin < self.boundingBox.origin.x) {
+        if (xMin < _background.boundingBox.origin.x) {
             [self nextAttempt];
             return;
         }
         
         int xMax = xMin + _currentPenguin.boundingBox.size.width;
         
-        if (xMax > (self.boundingBox.origin.x + self.boundingBox.size.width)) {
+        if (xMax > (_background.boundingBox.origin.x + _background.boundingBox.size.width)) {
             [self nextAttempt];
             return;
         }// <- all previous content of this method belongs inside of this if-statement
