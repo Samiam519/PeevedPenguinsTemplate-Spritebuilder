@@ -267,8 +267,6 @@
 					<real>500</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -838,7 +836,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>CCNode</string>
+								<string>scene scroll</string>
 								<key>memberVarAssignmentName</key>
 								<string>_levelNode</string>
 								<key>memberVarAssignmentType</key>
@@ -1070,7 +1068,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>CCNode</string>
+								<string>invisible spring node</string>
 								<key>memberVarAssignmentName</key>
 								<string>_pullbackNode</string>
 								<key>memberVarAssignmentType</key>
@@ -1182,7 +1180,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>CCNode</string>
+								<string>mouse joint</string>
 								<key>memberVarAssignmentName</key>
 								<string>_mouseJointNode</string>
 								<key>memberVarAssignmentType</key>
@@ -1249,6 +1247,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
