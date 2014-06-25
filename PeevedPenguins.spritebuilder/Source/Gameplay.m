@@ -86,7 +86,7 @@
     _currentPenguin.physicsBody.allowsRotation = TRUE;
     
     // follow the flying penguin
-    CCActionFollow *follow = [CCActionFollow actionWithTarget:_currentPenguin worldBoundary:self.boundingBox];
+    CCActionFollow *follow = [CCActionFollow actionWithTarget:_currentPenguin worldBoundary:_background.boundingBox];
     [_contentNode runAction:follow];
 }
 
