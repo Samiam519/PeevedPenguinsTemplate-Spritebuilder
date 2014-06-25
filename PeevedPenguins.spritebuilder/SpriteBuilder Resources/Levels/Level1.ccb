@@ -1247,7 +1247,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>31</real>
+							<real>23</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1401,7 +1401,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>77</real>
+							<real>70</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1555,7 +1555,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>123</real>
+							<real>116</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1709,7 +1709,7 @@
 						<key>value</key>
 						<array>
 							<real>457</real>
-							<real>151</real>
+							<real>145</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1764,8 +1764,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1865,7 +1863,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>213</real>
+							<real>207</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2019,7 +2017,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>260</real>
+							<real>254</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2173,7 +2171,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>306</real>
+							<real>299</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2327,7 +2325,7 @@
 						<key>value</key>
 						<array>
 							<real>460</real>
-							<real>353</real>
+							<real>345</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2382,6 +2380,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
